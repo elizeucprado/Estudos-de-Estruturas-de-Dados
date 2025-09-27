@@ -1,4 +1,4 @@
-![BANNER](./assets/BANNERESTRUTURAS.png)
+![BANNER](./assets/BANNERESTUDOSDEESTRUTURAS.png)
 
 Neste repositório estarão todos os meus estudos e treinos relacionados a formatos e estruturas de dados, ampliando o conhecimento adquirido em minha trajetória acadêmica e profissional. Aqui estarei arquivando de forma organizada os assuntos estudados, separados em pastas, para facilitar o aprendizado e tornar a consulta mais ágil.
 
