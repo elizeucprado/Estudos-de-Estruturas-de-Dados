@@ -1,0 +1,9 @@
+{
+    "nome": "Elizeu",
+    "idade": 18,
+    "nascimento": "Local do Nascimento",
+    "endereco" : [
+        {"line1": "Av. Brasil"},
+        {"line2": "Qd.7 Lt.77"}
+    ]
+}
