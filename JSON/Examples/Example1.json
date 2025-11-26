@@ -1,5 +1,15 @@
 [
-    {"firstName": "Elizeu", "lastName": "Prado", "age": 18},
-    {"firstName": "Samuel", "lastName": "Portes"},
-    {"firstName": "André", "lastName": "Fornazier"}
+    {
+        "firstName": "Elizeu", 
+        "lastName": "Prado", 
+        "age": 18
+    },
+    {
+        "firstName": "Samuel", 
+        "lastName": "Portes"
+    },
+    {
+        "firstName": "André", 
+        "lastName": "Fornazier"
+    }
 ]
